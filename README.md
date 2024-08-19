@@ -1,4 +1,3 @@
-
 # De Volta para o Futuro com GDB
 
 ## Por que voltar no tempo?
@@ -171,3 +170,5 @@ Este artigo é uma breve demonstração em português do [artigo original](https
 Muito obrigado Guinevere por compartilhar seu conhecimento de maneira tão clara e descontraída. se ou soubesse disso em outros tempos teria sido muito útil !! (ainda me lembro do dia que comentei com um amigo sobre isso... "O gdb podia voltar no tempo..." haha).
 
 Fica aqui todo meu agradecimento a ela :)
+
+esse post pode ser encontrado aqui também [tabnews](https://www.tabnews.com.br/meritissimo1/usando-gdb-para-viajar-no-tempo)
